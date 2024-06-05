@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindos👋
 
-<!--
-**vinizapa/vinizapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Vinicius Zaparoli 
 
-Here are some ideas to get you started:
+- estou estudando no [Alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 📧
+
+0000106187588xsp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/JoIhjIF9TMYAAAAC/goku-ultra-instinct-flowing-hair.gif)
